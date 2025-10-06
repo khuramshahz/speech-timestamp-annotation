@@ -46,12 +46,7 @@ data-annotation-portfolio/
 │
 ├── speech_timestamps.xlsx      # MAIN DELIVERABLE: Complete annotations
 │
-├── documentation/              # Guidelines and methodology
-│   ├── annotation_guidelines.md
-│   └── quality_metrics.md
 │
-├── examples/                   # Annotation examples with explanations
-│   └── annotated_examples.md
 │
 └── README.md                   # This file
 ```
@@ -250,5 +245,3 @@ Interested in my data annotation skills? Let's connect!
 ---
 
 **Portfolio Purpose**: This repository serves as evidence of my data annotation capabilities for potential employers and clients in the AI/ML industry.
-
-**Note**: This is a showcase project demonstrating annotation methodology and quality standards. Actual client work remains confidential and is not included in this public repository.
